@@ -748,3 +748,8 @@ getAttendance return array 2 dimension. The value of array is array containing.
 clearAttendance()
 ```
 Delete all attendance log from the device.
+
+
+# RESOURCE
+- https://github.com/kamshory/ZKLibrary
+- https://github.com/raihanafroz/zkteco/blob/master/README.md
